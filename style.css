@@ -55,3 +55,16 @@ h1 {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.hero button {
+    width: 120px;
+    padding: 10px;
+    border: none;
+    background: #3882f6;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
