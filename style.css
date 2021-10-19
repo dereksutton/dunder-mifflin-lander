@@ -40,7 +40,12 @@ body {
     background-color: #1F2937;
     justify-content: space-around;
     align-items: center;
-    padding: 90px;
+    padding: 60px;
+}
+
+.hero-image img {
+    width: 500px;
+    height: auto;
 }
 
 h1 {
@@ -80,6 +85,17 @@ h1 {
     gap: 100px;
 }
 
+.info-items p {
+    width: 250px;
+}
+
+.info-items img {
+    width: 200px;
+    height: auto;
+    border: 4px solid #3882F6;
+    border-radius: 50%;
+}
+
 .quote {
     display: flex;
     flex-direction: column;
@@ -116,6 +132,7 @@ h1 {
 
 .sign-text {
     text-align: left;
+    
 }
 
 h3 {
@@ -130,6 +147,7 @@ h3 {
     border-radius: 8px;
     background-color: #3882F6;
     padding: 5px 25px;
+    margin-left: 100px;
     font-size: 16px;
 }
 
