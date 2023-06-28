@@ -14,7 +14,7 @@ body {
     align-items: center;
     color: #F9FAF8;
     background-color: #1F2937;
-    padding: 20px 0px 20px 100px;
+    padding: 20px 0px 0px 40px;
 }
 
 .header-logo {
@@ -40,7 +40,7 @@ body {
     background-color: #1F2937;
     justify-content: space-around;
     align-items: center;
-    padding: 60px;
+    padding: 30px;
 }
 
 .hero-image img {
